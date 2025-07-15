@@ -1,6 +1,6 @@
 # Flask Contact Manager
 
-**Flask Contact Manager** is a simple web application that demonstrates how to build a full CRUD interface using:
+**Flask Contact Manager** is a simple web application that demonstrates a full CRUD interface using:
 
 - **Flask** – a lightweight Python microframework  
 - **PostgreSQL** – a powerful, open-source RDBMS  
@@ -8,7 +8,7 @@
 - **Jinja2** – templating engine for dynamic HTML  
 - **Bootstrap** – responsive UI components  
 
-This Project contains:
+## Key Objectives
 
 1. **Design** a simple `contacts` table in PostgreSQL  
 2. **Connect** Flask to your database using `psycopg2` and `RealDictCursor`  
